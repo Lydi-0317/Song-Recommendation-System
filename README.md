@@ -61,5 +61,5 @@ The dataset contains 6,300 songs with attributes like:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/song-recommendation-system.git
+   git clone https://github.com/Lydi-0317/song-recommendation-system.git
    cd song-recommendation-system
